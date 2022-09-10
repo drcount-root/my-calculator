@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Subham Sahu",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }
